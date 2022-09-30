@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  TestApp
+//
+//  Created by Karan Singh on 30/09/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "tmp.xcconfig"

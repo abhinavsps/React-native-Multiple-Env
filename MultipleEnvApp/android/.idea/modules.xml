@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.iml" filepath="$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1452661889/TestApp.react-native-config.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1748931791/TestApp.react-native-firebase_analytics.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1747178252/TestApp.react-native-firebase_app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1027289340/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1027289340/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1027289340/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1027289340/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1027289340/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1027289340/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
